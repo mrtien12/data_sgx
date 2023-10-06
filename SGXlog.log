@@ -1,0 +1,323 @@
+2023-10-01 17:26:50: 	 INFO 	 --- Downloading the date 2023-09-28
+2023-10-01 17:26:53: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-01 17:27:08: 	 WARNING 	 Metadata file not found in 2023-09-28. Assuming all files are missing.
+2023-10-01 17:27:09: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-01 17:27:09: 	 INFO 	 File downloaded.	 WEBPXTICK_DT.zip
+2023-10-01 17:27:09: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-01 17:27:09: 	 INFO 	 File downloaded.	 TickData_structure.dat
+2023-10-01 17:27:10: 	 INFO 	 Downloading...	 TC.txt
+2023-10-01 17:27:10: 	 INFO 	 File downloaded.	 TC.txt
+2023-10-01 17:27:10: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-01 17:27:10: 	 INFO 	 File downloaded.	 TC_structure.dat
+2023-10-01 17:28:51: 	 INFO 	 --- Downloading the date 2004-07-23
+2023-10-01 17:28:52: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-01 17:28:52: 	 INFO 	 File downloaded.	 WEBPXTICK_DT.zip
+2023-10-01 17:28:52: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-01 17:28:52: 	 INFO 	 File downloaded.	 TickData_structure.dat
+2023-10-01 17:28:52: 	 INFO 	 Downloading...	 TC.txt
+2023-10-01 17:28:52: 	 INFO 	 File downloaded.	 TC.txt
+2023-10-01 17:28:53: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-01 17:28:53: 	 INFO 	 File downloaded.	 TC_structure.dat
+2023-10-01 19:37:31: 	 INFO 	 --- Downloading the date 2023-07-25
+2023-10-01 19:37:50: 	 INFO 	 --- Downloading the date 2023-07-25
+2023-10-01 19:37:56: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-01 19:37:56: 	 INFO 	 File downloaded.	 WEBPXTICK_DT.zip
+2023-10-01 19:37:56: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-01 19:37:56: 	 INFO 	 File downloaded.	 TickData_structure.dat
+2023-10-01 19:37:56: 	 INFO 	 Downloading...	 TC.txt
+2023-10-01 19:37:56: 	 INFO 	 File downloaded.	 TC.txt
+2023-10-01 19:37:56: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-01 19:37:56: 	 INFO 	 File downloaded.	 TC_structure.dat
+2023-10-01 19:38:50: 	 INFO 	 --- Downloading the date 2009-12-01
+2023-10-01 19:38:50: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-01 19:38:50: 	 INFO 	 File downloaded.	 WEBPXTICK_DT.zip
+2023-10-01 19:38:50: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-01 19:38:50: 	 INFO 	 File downloaded.	 TickData_structure.dat
+2023-10-01 19:38:51: 	 INFO 	 Downloading...	 TC.txt
+2023-10-01 19:38:51: 	 INFO 	 File downloaded.	 TC.txt
+2023-10-01 19:38:51: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-01 19:38:51: 	 INFO 	 File downloaded.	 TC_structure.dat
+2023-10-01 19:45:24: 	 INFO 	 --- Downloading the date 2009-12-02
+2023-10-01 19:45:25: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-01 19:45:25: 	 INFO 	 File downloaded.	 WEBPXTICK_DT.zip
+2023-10-01 19:45:25: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-01 19:45:25: 	 INFO 	 File downloaded.	 TickData_structure.dat
+2023-10-01 19:45:27: 	 INFO 	 Downloading...	 TC.txt
+2023-10-01 19:45:27: 	 INFO 	 File downloaded.	 TC.txt
+2023-10-01 19:45:27: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-01 19:45:27: 	 INFO 	 File downloaded.	 TC_structure.dat
+2023-10-01 19:48:53: 	 INFO 	 The date 2009-12-02 has already been downloaded.
+2023-10-01 19:49:12: 	 INFO 	 --- Downloading the date 2009-12-03
+2023-10-01 19:49:13: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-01 19:49:13: 	 INFO 	 attachment; filename=20091203_web.tic data
+2023-10-01 19:49:13: 	 INFO 	 File downloaded.	 WEBPXTICK_DT.zip
+2023-10-01 19:49:13: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-01 19:49:13: 	 INFO 	 attachment; filename=TickData_structure.dat data
+2023-10-01 19:49:13: 	 INFO 	 File downloaded.	 TickData_structure.dat
+2023-10-01 19:50:05: 	 INFO 	 Downloading...	 TC.txt
+2023-10-01 19:50:05: 	 INFO 	 attachment; filename=20091203_web.atic1 data
+2023-10-01 19:50:05: 	 INFO 	 File downloaded.	 TC.txt
+2023-10-01 19:50:05: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-01 19:50:05: 	 INFO 	 attachment; filename=ATTB4TT3 data
+2023-10-01 19:50:05: 	 INFO 	 File downloaded.	 TC_structure.dat
+2023-10-01 19:56:42: 	 INFO 	 The date 2009-12-03 has already been downloaded.
+2023-10-01 19:57:34: 	 INFO 	 --- Downloading the date 2009-12-04
+2023-10-01 19:57:35: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-01 19:57:35: 	 INFO 	 20091204_web.tic
+2023-10-01 19:57:35: 	 INFO 	 File downloaded.	 20091204_web.tic
+2023-10-01 19:57:35: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-01 19:57:35: 	 INFO 	 TickData_structure.dat
+2023-10-01 19:57:35: 	 INFO 	 File downloaded.	 TickData_structure.dat
+2023-10-01 19:57:36: 	 INFO 	 Downloading...	 TC.txt
+2023-10-01 19:57:36: 	 INFO 	 20091204_web.atic1
+2023-10-01 19:57:36: 	 INFO 	 File downloaded.	 20091204_web.atic1
+2023-10-01 19:57:36: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-01 19:57:36: 	 INFO 	 ATTRYSJ4
+2023-10-01 19:57:36: 	 INFO 	 File downloaded.	 ATTRYSJ4
+2023-10-01 21:54:12: 	 ERROR 	 Not found url with id = 5519
+2023-10-01 21:54:23: 	 ERROR 	 Not found url with id = 5519
+2023-10-01 21:54:35: 	 ERROR 	 Not found url with id = 5519
+2023-10-01 21:57:24: 	 ERROR 	 Not found url with id = 5519
+2023-10-02 13:40:35: 	 INFO 	 Finish update dateHistory.
+2023-10-02 13:43:50: 	 INFO 	 Stored data is not keeping up with the current date. Stored data date is  2023-09-28. Updating dateHistory to current date:2023-10-02 13:43:50.726622.
+2023-10-02 13:44:48: 	 INFO 	 Finish update dateHistory.
+2023-10-02 13:45:06: 	 INFO 	 Stored data is not keeping up with the current date. Stored data date is  2023-09-28. Updating dateHistory to current business date:2023-09-29.
+2023-10-02 13:45:33: 	 INFO 	 Finish update dateHistory.
+2023-10-02 13:46:50: 	 INFO 	 Finish update dateHistory.
+2023-10-02 14:13:49: 	 INFO 	 Finish update dateHistory.
+2023-10-02 14:13:51: 	 INFO 	 --- Downloading the date 2023-09-29
+2023-10-02 14:14:34: 	 INFO 	 Finish update dateHistory.
+2023-10-02 14:14:36: 	 INFO 	 --- Downloading the date 2023-09-29
+2023-10-02 14:16:03: 	 INFO 	 Finish update dateHistory.
+2023-10-02 14:16:05: 	 INFO 	 --- Downloading the date 2023-09-29
+2023-10-02 14:17:26: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-02 14:17:26: 	 INFO 	 File downloaded	 : WEBPXTICK_DT-20230929.zip
+2023-10-02 14:17:26: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-02 14:17:26: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 14:17:27: 	 INFO 	 Downloading...	 TC.txt
+2023-10-02 14:17:27: 	 INFO 	 File downloaded	 : TC_20230929.txt
+2023-10-02 14:17:27: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-02 14:17:27: 	 INFO 	 File downloaded	 : TC_structure.dat
+2023-10-02 14:36:18: 	 INFO 	 Finish update dateHistory.
+2023-10-02 14:36:32: 	 INFO 	 --- Downloading the date 2022-09-20
+2023-10-02 14:37:15: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-02 14:37:15: 	 INFO 	 File downloaded	 : WEBPXTICK_DT-20220920.zip
+2023-10-02 14:37:16: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-02 14:37:16: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 14:37:16: 	 INFO 	 Downloading...	 TC.txt
+2023-10-02 14:37:16: 	 INFO 	 File downloaded	 : TC_20220920.txt
+2023-10-02 14:37:17: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-02 14:37:17: 	 INFO 	 File downloaded	 : TC_structure.dat
+2023-10-02 14:49:30: 	 INFO 	 Finish update dateHistory.
+2023-10-02 14:49:40: 	 INFO 	 Day that you inputted is not existed
+2023-10-02 14:50:12: 	 INFO 	 Finish update dateHistory.
+2023-10-02 14:50:54: 	 INFO 	 Finish update dateHistory.
+2023-10-02 14:52:26: 	 INFO 	 Finish update dateHistory.
+2023-10-02 15:23:50: 	 INFO 	 Finish update dateHistory.
+2023-10-02 15:23:58: 	 INFO 	 This date is not available for the database
+2023-10-02 15:24:13: 	 INFO 	 This date is not available for the database
+2023-10-02 15:25:21: 	 INFO 	 --- Downloading the date 2020-05-29
+2023-10-02 15:26:10: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-02 15:26:10: 	 INFO 	 File downloaded	 : WEBPXTICK_DT-20200529.zip
+2023-10-02 15:26:11: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-02 15:26:11: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 15:26:12: 	 INFO 	 Downloading...	 TC.txt
+2023-10-02 15:26:12: 	 INFO 	 File downloaded	 : TC_20200529.txt
+2023-10-02 15:26:12: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-02 15:26:12: 	 INFO 	 File downloaded	 : TC_structure.dat
+2023-10-02 21:10:05: 	 INFO 	 Finish update dateHistory.
+2023-10-02 21:10:24: 	 INFO 	 Finish update dateHistory.
+2023-10-02 21:11:38: 	 INFO 	 Finish update dateHistory.
+2023-10-02 21:11:51: 	 INFO 	   Downloading the date 2023-04-04
+2023-10-02 21:11:53: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-02 21:11:53: 	 INFO 	 File downloaded	 : WEBPXTICK_DT-20230404.zip
+2023-10-02 21:11:53: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-02 21:11:53: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:11:54: 	 INFO 	 Downloading...	 TC.txt
+2023-10-02 21:11:54: 	 INFO 	 File downloaded	 : TC_20230404.txt
+2023-10-02 21:11:54: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-02 21:11:54: 	 INFO 	 File downloaded	 : TC_structure.dat
+2023-10-02 21:11:54: 	 INFO 	   Downloading the date 2023-04-05
+2023-10-02 21:11:56: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-02 21:11:56: 	 INFO 	 File downloaded	 : WEBPXTICK_DT-20230405.zip
+2023-10-02 21:11:56: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-02 21:11:56: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:11:57: 	 INFO 	 Downloading...	 TC.txt
+2023-10-02 21:11:57: 	 INFO 	 File downloaded	 : TC_20230405.txt
+2023-10-02 21:11:57: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-02 21:11:57: 	 INFO 	 File downloaded	 : TC_structure.dat
+2023-10-02 21:11:57: 	 INFO 	   Downloading the date 2023-04-06
+2023-10-02 21:11:59: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-02 21:11:59: 	 INFO 	 File downloaded	 : WEBPXTICK_DT-20230406.zip
+2023-10-02 21:11:59: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-02 21:11:59: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:11:59: 	 INFO 	 Downloading...	 TC.txt
+2023-10-02 21:11:59: 	 INFO 	 File downloaded	 : TC_20230406.txt
+2023-10-02 21:12:00: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-02 21:12:00: 	 INFO 	 File downloaded	 : TC_structure.dat
+2023-10-02 21:12:00: 	 INFO 	   Downloading the date 2023-04-07
+2023-10-02 21:12:00: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-02 21:12:00: 	 INFO 	 File downloaded	 : WEBPXTICK_DT-20230407.zip
+2023-10-02 21:12:01: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-02 21:12:01: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:12:01: 	 INFO 	 Downloading...	 TC.txt
+2023-10-02 21:12:01: 	 INFO 	 File downloaded	 : TC_20230407.txt
+2023-10-02 21:12:01: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-02 21:12:01: 	 INFO 	 File downloaded	 : TC_structure.dat
+2023-10-02 21:12:01: 	 INFO 	   Downloading the date 2023-04-10
+2023-10-02 21:12:04: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-02 21:12:04: 	 INFO 	 File downloaded	 : WEBPXTICK_DT-20230410.zip
+2023-10-02 21:12:04: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-02 21:12:04: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:12:05: 	 INFO 	 Downloading...	 TC.txt
+2023-10-02 21:12:05: 	 INFO 	 File downloaded	 : TC_20230410.txt
+2023-10-02 21:12:05: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-02 21:12:05: 	 INFO 	 File downloaded	 : TC_structure.dat
+2023-10-02 21:12:05: 	 INFO 	 Finish download data from 2023-04-04 to 2023-04-10
+2023-10-02 21:12:44: 	 ERROR 	 Day that you inputted is not existed
+2023-10-02 21:12:44: 	 ERROR 	 Invalid date format
+
+2023-10-02 21:14:12: 	 INFO 	 Finish update dateHistory.
+2023-10-02 21:14:25: 	 ERROR 	 Start date is after end date
+
+2023-10-02 21:19:49: 	 INFO 	 Finish update dateHistory.
+2023-10-02 21:19:53: 	 INFO 	 Finish update dateHistory.
+2023-10-02 21:20:00: 	 INFO 	   Downloading the date 2004-07-23
+2023-10-02 21:20:01: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-02 21:20:01: 	 INFO 	 File downloaded	 : 20040723_web.tic
+2023-10-02 21:20:01: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-02 21:20:01: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:20:02: 	 INFO 	 Downloading...	 TC.txt
+2023-10-02 21:20:02: 	 INFO 	 File downloaded	 : 20040723_web.atic1
+2023-10-02 21:20:02: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-02 21:20:02: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:20:02: 	 INFO 	   Downloading the date 2004-06-25
+2023-10-02 21:20:03: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-02 21:20:03: 	 INFO 	 File downloaded	 : 20040625_web.tic
+2023-10-02 21:20:04: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-02 21:20:04: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:20:04: 	 INFO 	 Downloading...	 TC.txt
+2023-10-02 21:20:04: 	 INFO 	 File downloaded	 : 20040625_web.atic1
+2023-10-02 21:20:04: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-02 21:20:04: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:20:04: 	 INFO 	   Downloading the date 2004-04-15
+2023-10-02 21:20:05: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-02 21:20:05: 	 INFO 	 File downloaded	 : 20040415_web.tic
+2023-10-02 21:20:05: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-02 21:20:05: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:20:06: 	 INFO 	 Downloading...	 TC.txt
+2023-10-02 21:20:06: 	 INFO 	 File downloaded	 : 20040415_web.atic1
+2023-10-02 21:20:06: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-02 21:20:06: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:20:06: 	 INFO 	   Downloading the date 2003-12-26
+2023-10-02 21:20:07: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-02 21:20:07: 	 INFO 	 File downloaded	 : 20031226_web.tic
+2023-10-02 21:20:07: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-02 21:20:07: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:20:07: 	 INFO 	 Downloading...	 TC.txt
+2023-10-02 21:20:07: 	 INFO 	 File downloaded	 : 20031226_web.atic1
+2023-10-02 21:20:08: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-02 21:20:08: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:20:08: 	 INFO 	   Downloading the date 2003-10-17
+2023-10-02 21:20:09: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-02 21:20:09: 	 INFO 	 File downloaded	 : 20031017_web.tic
+2023-10-02 21:20:09: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-02 21:20:09: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:20:10: 	 INFO 	 Downloading...	 TC.txt
+2023-10-02 21:20:10: 	 INFO 	 File downloaded	 : 20031017_web.atic1
+2023-10-02 21:20:10: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-02 21:20:10: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:20:10: 	 INFO 	   Downloading the date 2003-09-12
+2023-10-02 21:20:11: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-02 21:20:11: 	 INFO 	 File downloaded	 : 20030912_web.tic
+2023-10-02 21:20:11: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-02 21:20:11: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:20:12: 	 INFO 	 Downloading...	 TC.txt
+2023-10-02 21:20:12: 	 INFO 	 File downloaded	 : 20030912_web.atic1
+2023-10-02 21:20:12: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-02 21:20:12: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:20:12: 	 INFO 	   Downloading the date 2003-09-08
+2023-10-02 21:20:13: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-02 21:20:13: 	 INFO 	 File downloaded	 : 20030908_web.tic
+2023-10-02 21:20:13: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-02 21:20:13: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:20:14: 	 INFO 	 Downloading...	 TC.txt
+2023-10-02 21:20:14: 	 INFO 	 File downloaded	 : 20030908_web.atic1
+2023-10-02 21:20:14: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-02 21:20:14: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:20:14: 	 INFO 	   Downloading the date 2003-09-05
+2023-10-02 21:20:17: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-02 21:20:17: 	 INFO 	 File downloaded	 : 20030905_web.tic
+2023-10-02 21:20:17: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-02 21:20:17: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:20:18: 	 INFO 	 Downloading...	 TC.txt
+2023-10-02 21:20:18: 	 INFO 	 File downloaded	 : 20030905_web.atic1
+2023-10-02 21:20:18: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-02 21:20:18: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 21:20:18: 	 INFO 	   Downloading the date 2003-08-22
+2023-10-02 21:20:20: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-02 21:20:20: 	 INFO 	 File downloaded	 : 20030822_web.tic
+2023-10-02 21:20:20: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-02 21:20:20: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-02 22:24:59: 	 INFO 	 Stored data is not keeping up with the current date. Stored data date is  2023-09-28. Updating dateHistory to current business date:2023-09-29.
+2023-10-02 22:25:01: 	 INFO 	 Finish update dateHistory.
+2023-10-03 00:50:51: 	 INFO 	   Downloading the date 2013-09-09
+2023-10-03 00:50:53: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-03 00:50:53: 	 INFO 	 File downloaded	 : WEBPXTICK_DT-20130909.zip
+2023-10-03 00:50:53: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-03 00:50:53: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-03 00:50:53: 	 INFO 	 Downloading...	 TC.txt
+2023-10-03 00:50:53: 	 INFO 	 File downloaded	 : TC_20130909.txt
+2023-10-03 00:50:53: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-03 00:50:53: 	 INFO 	 File downloaded	 : TC_structure.dat
+2023-10-03 00:51:32: 	 INFO 	   Downloading the date 2007-02-12
+2023-10-03 00:51:32: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-03 00:51:32: 	 INFO 	 File downloaded	 : 20070212_web.tic
+2023-10-03 00:51:32: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-03 00:51:32: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-03 00:51:35: 	 INFO 	 Downloading...	 TC.txt
+2023-10-03 00:51:35: 	 INFO 	 File downloaded	 : 20070212_web.atic1
+2023-10-03 00:51:35: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-03 00:51:35: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-03 10:48:42: 	 INFO 	 Stored data is not keeping up with the current date. Stored data date is  2023-09-29. Updating dateHistory to current business date:2023-10-02.
+2023-10-03 10:48:46: 	 INFO 	 Finish update dateHistory.
+2023-10-03 10:49:11: 	 INFO 	   Downloading the date 2023-10-02
+2023-10-03 10:49:25: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-03 10:49:25: 	 INFO 	 File downloaded	 : WEBPXTICK_DT-20231002.zip
+2023-10-03 10:49:26: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-03 10:49:26: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-03 10:49:26: 	 INFO 	 Downloading...	 TC.txt
+2023-10-03 10:49:26: 	 INFO 	 File downloaded	 : TC_20231002.txt
+2023-10-03 10:49:26: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-03 10:49:26: 	 INFO 	 File downloaded	 : TC_structure.dat
+2023-10-03 10:49:26: 	 INFO 	 Folder for day %s is downloaded
+2023-10-03 11:08:55: 	 INFO 	 Finish update dateHistory.
+2023-10-03 11:09:43: 	 INFO 	   Downloading the date 2023-09-27
+2023-10-03 11:09:59: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-03 11:09:59: 	 INFO 	 File downloaded	 : WEBPXTICK_DT-20230927.zip
+2023-10-03 11:10:00: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-03 11:10:00: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-03 11:10:01: 	 INFO 	 Downloading...	 TC.txt
+2023-10-03 11:10:01: 	 INFO 	 File downloaded	 : TC_20230927.txt
+2023-10-03 11:10:01: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-03 11:10:01: 	 INFO 	 File downloaded	 : TC_structure.dat
+2023-10-03 11:10:01: 	 INFO 	   Downloading the date 2023-09-28
+2023-10-03 11:10:30: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-03 11:10:30: 	 INFO 	 File downloaded	 : WEBPXTICK_DT-20230928.zip
+2023-10-03 11:10:31: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-03 11:10:31: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-03 11:10:31: 	 INFO 	 Downloading...	 TC.txt
+2023-10-03 11:10:31: 	 INFO 	 File downloaded	 : TC_20230928.txt
+2023-10-03 11:10:32: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-03 11:10:32: 	 INFO 	 File downloaded	 : TC_structure.dat
+2023-10-03 11:10:32: 	 INFO 	   Downloading the date 2023-09-29
+2023-10-03 11:10:51: 	 INFO 	 Downloading...	 WEBPXTICK_DT.zip
+2023-10-03 11:10:51: 	 INFO 	 File downloaded	 : WEBPXTICK_DT-20230929.zip
+2023-10-03 11:10:52: 	 INFO 	 Downloading...	 TickData_structure.dat
+2023-10-03 11:10:52: 	 INFO 	 File downloaded	 : TickData_structure.dat
+2023-10-03 11:10:57: 	 INFO 	 Downloading...	 TC.txt
+2023-10-03 11:10:57: 	 INFO 	 File downloaded	 : TC_20230929.txt
+2023-10-03 11:10:58: 	 INFO 	 Downloading...	 TC_structure.dat
+2023-10-03 11:10:58: 	 INFO 	 File downloaded	 : TC_structure.dat
+2023-10-03 11:10:58: 	 INFO 	 The date 2023-10-02 has already been downloaded.
+2023-10-03 11:10:58: 	 INFO 	 Finish download data from 2023-09-27 to 2023-10-02
